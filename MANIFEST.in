@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include font_arabic *.css
+recursive-include font_arabic *.csv
+recursive-include font_arabic *.html
+recursive-include font_arabic *.ico
+recursive-include font_arabic *.js
+recursive-include font_arabic *.json
+recursive-include font_arabic *.md
+recursive-include font_arabic *.png
+recursive-include font_arabic *.py
+recursive-include font_arabic *.svg
+recursive-include font_arabic *.txt
+recursive-exclude font_arabic *.pyc
