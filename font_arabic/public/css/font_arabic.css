@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap);
+
+
+
+:root {
+    --font-stack:
+    "Almarai","Roboto"
+
+    }
+
+
+    .v-application {
+        font-family: var(--font-stack) !important;
+     
+      }
+
+
+    
